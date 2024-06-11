@@ -6,6 +6,7 @@ html {
 body {
     font-family: 'Josefin Sans', sans-serif !important;
     padding: 0 !important;
+    background-color: #f06666ed;
 }
 
 .font-esthetic {
@@ -50,6 +51,8 @@ body {
     inset: 0 !important;
     width: 100%;
     height: 100%;
+    background-color:darkslateblue;
+    ;
     z-index: 1056 !important;
 }
 
@@ -120,6 +123,7 @@ body {
 .dark-section {
     margin-top: -0.5rem;
     margin-bottom: -0.5rem;
+    background-color:#7b6fc3;
 }
 
 footer {
@@ -141,4 +145,12 @@ footer {
 
 .color-theme-black {
     color: black;
+}
+
+.time-section {
+    background-color: #118fc9b7;
+}
+
+.bio-section{
+    background-color:  #bf8b94 !important;
 }
