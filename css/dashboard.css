@@ -41,12 +41,12 @@ body {
 }
 
 .btn-theme-light {
-    color: var(--bs-light);
+    color: var(--bs-dark);
     background-color: var(--bs-gray-800);
 }
 
 .btn-theme-light:hover {
-    color: var(--bs-light);
+    color: var(--bs-dark);
     background-color: var(--bs-gray-600);
 }
 
@@ -60,7 +60,7 @@ body {
 }
 
 .btn-theme-light:focus {
-    color: var(--bs-light);
+    color: var(--bs-dark);
 }
 
 .logout:hover {
@@ -69,7 +69,7 @@ body {
 }
 
 .bg-theme-light {
-    background-color: var(--bs-gray-100);
+    background-color: var(--bs-gray-800);
 }
 
 .bg-theme-dark {

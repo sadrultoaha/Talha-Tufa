@@ -132,7 +132,7 @@ footer {
 }
 
 .bg-theme-light {
-    background-color: var(--bs-gray-100);
+    background-color: var(--bs-gray-800);
 }
 
 .bg-theme-dark {
@@ -140,7 +140,7 @@ footer {
 }
 
 .color-theme-white {
-    color: white;
+    color: black;
 }
 
 .color-theme-black {
@@ -153,4 +153,21 @@ footer {
 
 .bio-section{
     background-color:  #18100D!important;
+}
+
+ 
+p{
+    color: white;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+h4{
+    color: white;
 }
